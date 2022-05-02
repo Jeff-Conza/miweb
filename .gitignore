@@ -1,0 +1,3 @@
+# .gitignore para ignorar archivos y rutas. No van al repositorio
+.env
+node_modules/
